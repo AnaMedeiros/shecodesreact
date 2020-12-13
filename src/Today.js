@@ -1,8 +1,6 @@
-import React, { useState } from "react";
+import React from "react";
 
 export default function Today() {
-  let [city, setCity] = useState("Porto");
-
   return (
     <div className="col-md-6 leftSide">
       <div className="card todayBlock">
