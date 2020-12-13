@@ -1,10 +1,8 @@
-import "./App.css";
 import Header from "./Header";
 import Footer from "./Footer";
 import NextDays from "./NextDays";
 import Today from "./Today";
 import Tomorow from "./Tomorow";
-import "./index.css";
 
 function App() {
   return (
